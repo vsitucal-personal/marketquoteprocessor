@@ -7,7 +7,10 @@ Usage:
 
 $ python marketQuoteProcessor.py <samplemarketdata.txt>
 
-or you could add !#/<(file path to python)> at the start of marketQuoteProcessor.py script 
+or you could add !#/<(file path to python)> at the start of marketQuoteProcessor.py script, grant necessary permissions to execute via chmod +x
+
+$ python marketQuoteProcessor.py <samplemarketdata.txt>
+
 
 Usage:
 
