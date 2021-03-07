@@ -9,9 +9,9 @@ Usage:
 
 or you could add !#/<(file path to python)> at the start of marketQuoteProcessor.py script, grant necessary permissions to execute the script
 
-$ marketQuoteProcessor.py <samplemarketdata.txt>
+```$ marketQuoteProcessor.py <samplemarketdata.txt>```
 
 
 Usage:
 
-$ ./marketQuoteProcessor.py <samplemarketdata.txt>
+```$ ./marketQuoteProcessor.py <samplemarketdata.txt>```
