@@ -5,7 +5,7 @@ Python script used to process hypothetical market data from an exchange containi
 
 Usage:
 
-$ python marketQuoteProcessor.py <samplemarketdata.txt>
+```$ python marketQuoteProcessor.py <samplemarketdata.txt>```
 
 or you could add !#/<(file path to python)> at the start of marketQuoteProcessor.py script, grant necessary permissions to execute the script
 
